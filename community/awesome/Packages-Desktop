@@ -190,8 +190,8 @@ xcursor-maia
 #>extra freeoffice
 >extra manjaro-hello
 >extra manjaro-application-utility
-extra manjaro-settings-manager
-extra manjaro-settings-manager-notifier
+>extra manjaro-settings-manager
+>extra manjaro-settings-manager-notifier
 # >basic midori  # no browser in minimal iso
 >extra mlocate
 mousepad

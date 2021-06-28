@@ -166,6 +166,7 @@ grub-theme-manjaro
 >extra xcursor-simpleandsoft
 >extra xcursor-vanilla-dmz-aa
 >extra kvantum-manjaro
+xcursor-maia
 
 ## Applications
 >extra catfish
@@ -189,8 +190,8 @@ grub-theme-manjaro
 #>extra freeoffice
 >extra manjaro-hello
 >extra manjaro-application-utility
->extra manjaro-settings-manager
->extra manjaro-settings-manager-notifier
+extra manjaro-settings-manager
+extra manjaro-settings-manager-notifier
 # >basic midori  # no browser in minimal iso
 >extra mlocate
 mousepad

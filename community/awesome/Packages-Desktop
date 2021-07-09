@@ -121,6 +121,7 @@ pamac
 lightdm
 lightdm-slick-greeter
 accountsservice  # Enhanced user accounts handling
+slock
 
 ## XFCE Group
 exo

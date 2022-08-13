@@ -29,6 +29,8 @@ networkmanager
 >extra pulseaudio-bluetooth
 >extra pulseaudio-ctl
 >extra pulseaudio-zeroconf
+>extra jack2
+>extra pipewire-jack
 
 ## Connect Packages
 >extra android-tools
@@ -224,6 +226,7 @@ mousepad
 >extra ristretto
 >extra xfburn
 >extra yelp
+>extra xdg-desktop-portal-gnome
 
 # Optional dependencies engrampa
 >extra p7zip  # 7Z and ARJ archive support

@@ -45,6 +45,7 @@ networkmanager
 
 ## AUR Support/Development
 # Missing base-devel packages
+
 >core archlinux-keyring
 >core manjaro-keyring
 >core sudo

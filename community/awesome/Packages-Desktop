@@ -78,7 +78,6 @@ make
 patch
 pkgconf
 dbus
-dbus-x11
 >extra pkg-config
 >extra >multilib lib32-flex
 # Extra packages for AUR support

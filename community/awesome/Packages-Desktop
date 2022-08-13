@@ -46,35 +46,35 @@ networkmanager
 ## AUR Support/Development
 # Missing base-devel packages
 
->core archlinux-keyring
->core manjaro-keyring
->core sudo
->core pacman
->core autoconf
->core automake
->core autoconf
->core automake
->core binutils
->core bison
->core fakeroot
->core file
->core gawk
->core texinfo
->core which
+archlinux-keyring
+manjaro-keyring
+sudo
+pacman
+autoconf
+automake
+autoconf
+automake
+binutils
+bison
+fakeroot
+file
+gawk
+texinfo
+which
 >extra flex
->core gcc
->core gettext
->core grep
->core sed
->core groff
->core gzip
+gcc
+gettext
+grep
+sed
+groff
+gzip
 >extra >multilib gcc-libs-multilib
 >extra >multilib gcc-multilib
->core libtool
->core m4
->core make
->core patch
->core pkgconf
+libtool
+m4
+make
+patch
+pkgconf
 >extra pkg-config
 >extra >multilib lib32-flex
 # Extra packages for AUR support

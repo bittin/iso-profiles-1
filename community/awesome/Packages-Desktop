@@ -31,6 +31,7 @@ networkmanager
 >extra pulseaudio-zeroconf
 >extra jack2
 >extra pipewire-jack
+>extra wireplumber
 
 ## Connect Packages
 >extra android-tools

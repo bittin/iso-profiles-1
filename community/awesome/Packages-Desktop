@@ -75,6 +75,7 @@ m4
 make
 patch
 pkgconf
+dbus
 >extra pkg-config
 >extra >multilib lib32-flex
 # Extra packages for AUR support

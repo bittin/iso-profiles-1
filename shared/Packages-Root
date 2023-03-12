@@ -48,7 +48,6 @@ logrotate
 lvm2
 man-db
 man-pages
-manjaro-firmware
 manjaro-release
 manjaro-system
 manjaro-zsh-config

@@ -29,7 +29,6 @@ networkmanager
 >extra pulseaudio-bluetooth
 >extra pulseaudio-ctl
 >extra pulseaudio-zeroconf
->extra pipewire-jack
 >extra wireplumber
 
 ## Connect Packages

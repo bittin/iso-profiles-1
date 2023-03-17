@@ -55,6 +55,7 @@ mdadm
 memtest86+
 mhwd
 mhwd-db
+mkinitcpio
 mkinitcpio-openswap
 nano
 nfs-utils

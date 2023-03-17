@@ -284,4 +284,5 @@ ufw  # firewall needs to be in every iso
 >extra qt5ct
 >extra downgrade
 >extra bmenu
+>extra picom
 >extra transmission-gtk
